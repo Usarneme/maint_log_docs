@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/maint_log_docs/static/css/main.84a0beb4.chunk.css",
+    "main.js": "/maint_log_docs/build/main.af071474.js",
+    "runtime-main.js": "/maint_log_docs/build/bundle.53c7ec5e.js",
+    "build/2.df3545a3.js": "/maint_log_docs/build/2.df3545a3.js",
+    "build/2.df3545a3.js.LICENSE.txt": "/maint_log_docs/build/2.df3545a3.js.LICENSE.txt",
+    "index.html": "/maint_log_docs/index.html",
+    "precache-manifest.5c459f7cc2a87c8fed852b81a7490f8b.js": "/maint_log_docs/precache-manifest.5c459f7cc2a87c8fed852b81a7490f8b.js",
+    "service-worker.js": "/maint_log_docs/service-worker.js",
+    "static/css/main.84a0beb4.chunk.css.map": "/maint_log_docs/static/css/main.84a0beb4.chunk.css.map",
+    "static/media/account.svg": "/maint_log_docs/static/media/account.e5a41a1f.svg",
+    "static/media/addLog.svg": "/maint_log_docs/static/media/addLog.a918556d.svg",
+    "static/media/log.svg": "/maint_log_docs/static/media/log.0476682c.svg",
+    "static/media/magnifying.svg": "/maint_log_docs/static/media/magnifying.369e264b.svg",
+    "static/media/search.svg": "/maint_log_docs/static/media/search.fb5ad7c7.svg",
+    "static/media/todo.svg": "/maint_log_docs/static/media/todo.91e3307a.svg"
+  },
+  "entrypoints": [
+    "build/bundle.53c7ec5e.js",
+    "build/2.df3545a3.js",
+    "static/css/main.84a0beb4.chunk.css",
+    "build/main.af071474.js"
+  ]
+}
